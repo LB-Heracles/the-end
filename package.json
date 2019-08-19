@@ -1,0 +1,13 @@
+{
+  "name": "the-end",
+  "version": "1.0.0",
+  "description": "Code for my graduation project",
+  "main": "(index.js)",
+  "repository": "https://github.com/LB-Heracles/the-end.git",
+  "author": "LB_Heracles",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-loader": "^2.4.5"
+  }
+}
