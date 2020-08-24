@@ -1,4 +1,4 @@
 # the-end
 Code for my graduation project
 
-# 我将要完成的一个毕业设计，最近还在构想。
+# 微校帮: 基于微信小程序的校园信息交流平台
